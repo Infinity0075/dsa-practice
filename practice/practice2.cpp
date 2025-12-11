@@ -7,8 +7,7 @@ int oddNum(vector<int> nums, int n)
 {
       for (int i = n - 1; i < 0; i--)
       {
-            if (nums[i])
-      }
+            }
 }
 
 int main()
